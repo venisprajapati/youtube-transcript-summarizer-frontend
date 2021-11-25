@@ -1,4 +1,7 @@
-# Youtube Transcript Summarizer Frontend 
+# youtube-transcript-summarizer-frontend
+
+Youtube Transcript Summarizer
+- main repository - https://github.com/venisprajapati/youtube-transcript-summarizer
 
 ### `npm start`
 
